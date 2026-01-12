@@ -24,3 +24,5 @@ This app works for me on:
 ## Alternatives
 
 [Clop](https://lowtechguys.com/clop/), has a lot of resizing, compression, and file-format options. I couldn't figure out how to get an automatic bulk workflow to work, which is why I vibed this app.
+
+*UPDATE*: The developer of Clop was inspired by this project and added the feature to [Clop 2.11.0](https://github.com/FuzzyIdeas/Clop/releases/tag/v2.11.0) =D
